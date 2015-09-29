@@ -1,0 +1,9 @@
+# Site settings
+title: Jean Friesewinkel
+tag_text: Hi, I&apos;m Jean
+description: Engineer, entrepreneur, early adopter.
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
